@@ -14,7 +14,7 @@
     <li>🔭 Currently working on: <b>DSA and some innovative projects</b></li>
     <li>🌱 Learning: <b>Data Algorithms, Spring Boot, React, APIs & Full-Stack Development</b></li>
     <li>🤝 Open to: Collaborating on <b>web apps, ML projects, and impactful ideas</b></li>
-    <li>📫 Reach me: <a href="https://linkedin.com/in/abhishek--dubey">LinkedIn</a> | <a href="https://github.com/ByteWeaverX">GitHub</a></li>
+    <li>📫 Reach me: <a href="https://linkedin.com/in/abhishekdubey1310">LinkedIn</a> | <a href="https://github.com/ByteWeaverX">GitHub</a></li>
     <li>⚡ Fun fact: I love turning abstract ideas into practical projects!</li>
   </ul>
 </div>
@@ -94,7 +94,7 @@
 
 <h2 align="left">🌐 Connect With Me</h2>
 <div align="left">
-  <a href="https://linkedin.com/in/abhishek--dubey">
+  <a href="https://linkedin.com/in/abhishekdubey1310">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
   <img width="12" />
