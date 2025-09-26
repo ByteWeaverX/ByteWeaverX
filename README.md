@@ -1,69 +1,110 @@
-# Hi there 👋, I'm Abhishek  
+<h2 align="left">Hi there 👋, I'm Abhishek</h2>
 
-🚀 *Aspiring Full-Stack Developer & ML Enthusiast*  
-🎯 *Building real-world solutions with code, learning daily, and growing into a skilled developer.*  
-
----
-
-## 👨‍💻 About Me  
-- 🔭 Currently working on: **DSA and some innovative projects**  
-- 🌱 Learning: **Data Algorithms, Spring Boot, React, APIs & Full-Stack Development**  
-- 🤝 Open to: Collaborating on **web apps, ML projects, and impactful ideas**  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/abhishek--dubey) | [GitHub](https://github.com/ByteWeaverX)  
-- ⚡ Fun fact: I love turning abstract ideas into practical projects!  
+<h3 align="left">
+  🚀 Aspiring Full-Stack Developer & ML Enthusiast
+  <br>
+  🎯 Building real-world solutions with code, learning daily, and growing into a skilled developer.
+</h3>
 
 ---
 
-## 🛠️ Tech Stack  
+<h2 align="left">👨‍💻 About Me</h2>
+<div align="left">
+  <ul>
+    <li>🔭 Currently working on: <b>DSA and some innovative projects</b></li>
+    <li>🌱 Learning: <b>Data Algorithms, Spring Boot, React, APIs & Full-Stack Development</b></li>
+    <li>🤝 Open to: Collaborating on <b>web apps, ML projects, and impactful ideas</b></li>
+    <li>📫 Reach me: <a href="https://linkedin.com/in/abhishek--dubey">LinkedIn</a> | <a href="https://github.com/ByteWeaverX">GitHub</a></li>
+    <li>⚡ Fun fact: I love turning abstract ideas into practical projects!</li>
+  </ul>
+</div>
 
-**Languages**  
-!(https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) 
-!(https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
-!(https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-!(https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-!(https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-!(https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-!(https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-
-**Frameworks & Libraries**  
-!(https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white) 
-!(https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-!(https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
-!(https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
-!(https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) 
-!(https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-
-**Databases & Tools**  
-!(https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
-!(https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)  
-!(https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-!(https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-!(https://img.shields.io/badge/Canva-00C4C8?logo=canva&logoColor=white)
-!(https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ---
 
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <br>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
+</div>
 
-## 📊 GitHub Stats  
+---
 
+<h2 align="left">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ByteWeaverX&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteWeaverX&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>  
+</p>
 
 ---
 
-## 🎯 Current Roadmap  
-- 📌 Master **Spring Boot & React** for full-stack development  
-- 📌 Build & deploy **production-ready projects**  
-- 📌 Contribute to **open-source projects**  
-- 📌 Improve **DSA coding & problem solving**  
+<h2 align="left">🎯 Current Roadmap</h2>
+<div align="left">
+  <ul>
+    <li>📌 Master <b>Spring Boot & React</b> for full-stack development</li>
+    <li>📌 Build & deploy <b>production-ready projects</b></li>
+    <li>📌 Contribute to <b>open-source projects</b></li>
+    <li>📌 Improve <b>DSA coding & problem solving</b></li>
+  </ul>
+</div>
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-Abhishek%20Dubey-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekdubey1310)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ByteWeaverX)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](#) (Coming Soon 🚀)  
-
----
-✨ *“Code is not just solving problems, it’s building possibilities.”* ✨  
+<h2 align="left">🌐 Connect With Me</h2>
+<div align="left">
+  <a href="https://linkedin.com/in/abhishek--dubey">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/ByteWeaverX">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  </a>
+  <img width="12" />
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
+  </a>
+</div>
+<br>
+✨ <i>Code is not just solving problems, it’s building possibilities.</i> ✨
